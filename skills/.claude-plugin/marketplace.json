@@ -1,11 +1,11 @@
 {
-  "name": "anthropic-agent-skills",
+  "name": "iac-agent-skills",
   "owner": {
-    "name": "Keith Lazuka",
-    "email": "klazuka@anthropic.com"
+    "name": "Pierre Santos",
+    "email": "pxluthor@gmail.com"
   },
   "metadata": {
-    "description": "Anthropic example skills",
+    "description": "example skills",
     "version": "1.0.0"
   },
   "plugins": [
@@ -43,8 +43,8 @@
     }
     ,
     {
-      "name": "claude-api",
-      "description": "Claude API and SDK documentation skill for building LLM-powered applications",
+      "name": "iac-api",
+      "description": "iac API and SDK documentation skill for building LLM-powered applications",
       "source": "./",
       "strict": false,
       "skills": [
