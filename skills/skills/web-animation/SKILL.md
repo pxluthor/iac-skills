@@ -1,11 +1,10 @@
 ---
 name: web-animation
-description: >
-  Animation system for production HTML/CSS/JS landing pages and single-page sites.
+description: Animation system for production HTML/CSS/JS landing pages and single-page sites.
   Use this skill whenever the user wants to add animations, motion, scroll effects,
   entrance effects, counters, parallax, microinteractions, or any kind of movement
-  to a plain HTML file, sales page, landing page, or static site — even if they
-  don't explicitly say "animation". Triggers include: "make it more dynamic",
+  to a plain HTML file, sales page, landing page, or static site — even if they don't explicitly say "animation". 
+  **Triggers include:** "make it more dynamic",
   "add motion", "improve the hero", "make the page feel alive", "add scroll effects",
   "animate the cards", "counter animation", "parallax", or any request to improve
   a static HTML page visually. Covers GSAP (primary) and Anime.js (lightweight
